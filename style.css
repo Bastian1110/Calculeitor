@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(43, 42, 42) ;
+}
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(243, 77, 113);   
+}
+h2{
+    font-size: small;
+}
+div{
+    background-color:rgb(43, 42, 42) ;
+    height: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(243, 77, 113); 
+    margin: 10px 200px 75px 200px;
+    font-size: 75px;
+
+}
+table{
+    margin: 0 auto;
+
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(243, 77, 113); 
+    display: inline-block;
+    margin: 10px;
+    font-size: 400%;
+    background-color: rgb(43, 42, 42);
+    border: none;
+
+}
